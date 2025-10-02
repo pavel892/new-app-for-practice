@@ -9,7 +9,7 @@ import MusicList from "./components/MusicList";
 function App() {
   return (
     <div className="text-3xl">
-      Super Music App!
+      Super Music App version 2!
       <MusicList />
     </div>
   );
