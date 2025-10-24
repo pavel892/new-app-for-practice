@@ -10,7 +10,7 @@ import NewSuperFeature from "./components/NewSuperFeature";
 function App() {
   return (
     <div className="text-3xl">
-      Super Music App version 3!
+      Super Music App version 3! adding new awesome stuff
       <div>
         <p>Some new awesome feature added!</p>
       </div>
